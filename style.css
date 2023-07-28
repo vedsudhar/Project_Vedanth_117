@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Roboto Slab', serif;
+    background:  #f5dbda;
+}
+
+.header_div
+{
+    background: white;
+    color:blue
+}
+
+.header_div p
+{
+    font-family:'Roboto Slab', serif ;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto Slab', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 23px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px  rgb(155, 152, 152);
+
+}
